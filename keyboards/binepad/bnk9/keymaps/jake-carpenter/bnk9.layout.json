@@ -1,0 +1,71 @@
+{
+  "name": "BNK9",
+  "vendorProductId": 1112100409,
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "layers": [
+    [
+      "KC_MUTE",
+      "KC_NO",
+      "KC_NO",
+      "KC_P1",
+      "KC_P2",
+      "KC_P3",
+      "KC_P4",
+      "KC_P5",
+      "KC_P6",
+      "LT(1,KC_P7)",
+      "KC_P8",
+      "KC_P9"
+    ],
+    [
+      "RGB_TOG",
+      "KC_NO",
+      "KC_NO",
+      "MACRO(0)",
+      "MACRO(1)",
+      "MACRO(2)",
+      "MACRO(3)",
+      "MACRO(4)",
+      "MACRO(5)",
+      "KC_TRNS",
+      "MACRO(6)",
+      "MACRO(7)"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ],
+    [
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS",
+      "KC_TRNS"
+    ]
+  ],
+  "encoders": [
+    [
+      ["KC_VOLD", "KC_VOLU"],
+      ["KC_VOLD", "KC_VOLU"],
+      ["KC_TRNS", "KC_TRNS"],
+      ["KC_TRNS", "KC_TRNS"]
+    ]
+  ]
+}
